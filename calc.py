@@ -5,7 +5,7 @@ def subtract(x,y,z):
 def multiply(x,y,z):
     pass
 def divide(x,y,z):
-    pass
+    return x*y*z
 def square(x,y,z):
     pass
 def multiply(x,y,z):
