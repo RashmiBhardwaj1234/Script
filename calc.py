@@ -10,3 +10,5 @@ def square(x,y):
     pass
 def multiply(x,y):
     return x*y
+def modulodiv(x,y)
+   return x%y
