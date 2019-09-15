@@ -12,3 +12,5 @@ def multiply(x,y):
     return x*y
 def modulodiv(x,y)
    return x%y
+def main(x,y)
+return x+y
