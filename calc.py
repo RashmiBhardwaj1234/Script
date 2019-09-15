@@ -9,6 +9,6 @@ def divide(x,y,z):
 def square(x,y,z):
     pass
 def multiply(x,y,z):
-    return x*y
+    return x*y*z
 def modulodiv(x,y)
    return x%y
